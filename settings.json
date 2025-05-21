@@ -1,0 +1,48 @@
+{
+  "bot-account": {
+    "username": "Bot_NhatDuckk", 
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "Therefore7.aternos.me", 
+    "port":"31771",   
+    "version": "1.12.2"   
+  },
+  
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": ""
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 600,
+
+      "messages": [
+        "Bot by NhatDuckk",
+        ".....",
+        "I Like to Play Minecraft!"
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5000
+  }
+}
